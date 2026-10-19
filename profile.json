@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "gwdvzz",
+  "seed": "#C3C4B2",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "(⁠≧⁠▽⁠≦⁠)🦴💮",
+    "name": "mitu",
+    "subtitle": "",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:archlinux",
+        "label": "i use arch, btw"
+      },
+      {
+        "icon": "brand:niri",
+        "label": "niri"
+      }
+    ]
+  },
+  "about": {
+    "title": "abt me🥳",
+    "items": [
+      {
+        "icon": "design_services",
+        "label": "i love MD3"
+      },
+      {
+        "icon": "music_note",
+        "label": "indie/alt"
+      },
+      {
+        "icon": "location_on",
+        "label": "iran"
+      },
+      {
+        "icon": "calendar_month",
+        "label": "15 y'o"
+      },
+      {
+        "icon": "person",
+        "label": "fb(ig)"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "RUST"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "JS"
+          },
+          {
+            "icon": "brand:cplusplusbuilder",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "GIT"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {},
+    "empty": "",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/gwdvzz"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/ZnpgPZCR"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/gwdvzz"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/31tv5qvajqikkn2nvfspemjgfcny?si=mk4skQOaSlu6zWSEo7vXmQ&utm_source=copy-link"
+      },
+      {
+        "icon": "brand:pinterest",
+        "url": "https://pin.it/51IkpZG7G"
+      },
+      {
+        "icon": "kid_star",
+        "url": "https://guns.lol/gwdvzz"
+      }
+    ],
+    "variant": "icon",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "idh :/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
