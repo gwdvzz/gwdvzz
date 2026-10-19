@@ -16,6 +16,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="25.821%" alt=""></picture><a href="idh :/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.417%" alt="My website"></picture></a><a href="https://github.com/gwdvzz?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="25.939%" alt="All repositories"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="25.821%" alt=""></picture>
 
-<a href="https://metawka.github.io/expressive-profile/?from=gwdvzz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto"
+<a href="https://metawka.github.io/expressive-profile/?from=gwdvzz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"
 
 </div>
