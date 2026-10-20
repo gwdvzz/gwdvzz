@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "gwdvzz",
-  "seed": "#C3C4B2",
-  "seedFromAvatar": true,
+  "seed": "#EE659E",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "(⁠≧⁠▽⁠≦⁠)🦴💮",
     "name": "mitu",
-    "subtitle": "",
+    "subtitle": "you like me, dont you?",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
